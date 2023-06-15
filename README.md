@@ -19,3 +19,6 @@ At the end of this challenge, I'd like to:
 [Follow me on Twitter @aasthaa_007](https://twitter.com/aasthaa_007?t=jOwPXNgkviKFQ6fz3cug-Q&s=08)
 
 [Connect with me on LinkedIn ](https://www.linkedin.com/in/astha-07)
+
+## Let's Go!
+☁ Day 1 [Introduction to Cloud](https://github.com/aasthaa-007/100DaysofCloud/blob/main/Journey/1.md)
