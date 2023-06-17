@@ -24,3 +24,5 @@ At the end of this challenge, I'd like to:
 ☁ Day 1 [Introduction to Cloud](https://github.com/aasthaa-007/100DaysofCloud/blob/main/Journey/1.md)
 
 ☁ Day 2 [Introduction to GCP + IaaS, PaaS & SaaS + Regions and Zones](https://github.com/aasthaa-007/100DaysofCloud/blob/main/Journey/2.md)
+
+☁ Day 3 [All about Compute Engine](https://github.com/aasthaa-007/100DaysofCloud/blob/main/Journey/3.md)
