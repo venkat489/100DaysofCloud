@@ -26,3 +26,5 @@ At the end of this challenge, I'd like to:
 ☁ Day 2 [Introduction to GCP + IaaS, PaaS & SaaS + Regions and Zones](https://github.com/aasthaa-007/100DaysofCloud/blob/main/Journey/2.md)
 
 ☁ Day 3 [All about Compute Engine](https://github.com/aasthaa-007/100DaysofCloud/blob/main/Journey/3.md)
+
+☁ Day 4 [Installing HTTP server on your Virtual Machine](https://github.com/aasthaa-007/100DaysofCloud/blob/main/Journey/4.md)
