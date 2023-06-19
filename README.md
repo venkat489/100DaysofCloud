@@ -27,4 +27,7 @@ At the end of this challenge, I'd like to:
 
 ☁ Day 3 [All about Compute Engine](https://github.com/aasthaa-007/100DaysofCloud/blob/main/Journey/3.md)
 
+<<<<<<< Updated upstream
 ☁ Day 4 [Installing HTTP server on your Virtual Machine](https://github.com/aasthaa-007/100DaysofCloud/blob/main/Journey/4.md)
+=======
+>>>>>>> Stashed changes
